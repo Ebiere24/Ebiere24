@@ -129,9 +129,11 @@
   </p>
   <p>
     <strong>Email:</strong> <a href="mailto:ebiereobongisonguyo@example.com">ebiereobongisonguyo@example.com</a><br/>
-    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ebiere-obong-6b2a1536a/">linkedin.com/in/ebiere-obong-6b2a1536a/</a>
+    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ebiere-obong-6b2a1536a/">linkedin.com/in/ebiere-obong-6b2a1536a/</a><br/>
+    <strong>Twitter (X):</strong> <a href="https://x.com/EbiereObong">@EbiereObong</a>
   </p>
 </section>
+
 
 <hr/>
 

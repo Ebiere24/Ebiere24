@@ -5,10 +5,10 @@
 <section align="center">
   <!-- Header -->
   <img src="https://avatars.githubusercontent.com/u/223534415?v=4" alt="Ebiereobong Udeme Isonguyo" width="110" style="border-radius:50%; margin-bottom:8px;">
-  <h1 style="margin:0;">Hi — I'm <strong>Ebiereobong Udeme Isonguyo</strong> 👋</h1>
+  <h1 style="margin:0;">Hi  I'm <strong>Ebiereobong Udeme Isonguyo</strong> 👋</h1>
   <p style="margin-top:6px; color:#444; max-width:62ch;">
-    I'm an ALX Frontend Developer-in-training with a passion for turning ideas into software that helps people.
-    I build user-friendly, practical tools — one line at a time.
+    I'm an ALX Frontend Developer in training with a passion for turning ideas into software that helps people.
+    I build user-friendly, practical tools  one line at a time.
   </p>
 
   <!-- Badges -->
@@ -25,11 +25,11 @@
   <h2>About Me</h2>
   <p>
     I am a learner of the <strong>ALX Frontend Development</strong> program and I’m revamping my GitHub profile to make it stand out during my job search.
-    My journey into software engineering started with curiosity and passion — the drive to turn ideas into something that works and helps people.
+    My journey into software engineering started with curiosity and passion  the drive to turn ideas into something that works and helps people.
     It’s not just about coding; it’s about building a future I believe in, one line at a time.
   </p>
   <p>
-    <strong>My goal:</strong> To become a world-class software engineer who builds impactful, user-friendly solutions that solve real-world problems,
+    <strong>My goal:</strong> To become a world-class software engineer who builds impactful, user-friendly solutions that solve real world problems,
     inspire innovation, and contribute to a smarter, more connected future.
   </p>
 </section>
@@ -52,12 +52,12 @@
 
 <!-- Featured Project -->
 <section>
-  <h2>Featured Project — Land Survey Data Management & Visualization System</h2>
+  <h2>Featured Project  Land Survey Data Management & Visualization System</h2>
 
   <div style="border-left:4px solid #0d6efd; padding:12px; margin:8px 0; background:#fafafa;">
     <h3 style="margin:6px 0;">Land Survey Data Management & Visualization System</h3>
     <p>
-      A web application designed to manage, validate, and visualize land survey data — bridging field measurements and decision-ready maps.
+      A web application designed to manage, validate, and visualize land survey data  bridging field measurements and decision ready maps.
       This project aims to improve efficiency for surveyors, planners, and organizations working with spatial data.
     </p>
 
@@ -128,7 +128,7 @@
     I’m open to internships, collaborations, and junior frontend roles.
   </p>
   <p>
-    <strong>Email:</strong> <a href="mailto:ebiereobongisonguyo@example.com">ebiereobongisonguyo@example.com</a><br/>
+    <strong>Email:</strong> <a href="mailto:ebiereobongisonguyo@gmail.com">ebiereobongisonguyo@gmail.com</a><br/>
     <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ebiere-obong-6b2a1536a/">linkedin.com/in/ebiere-obong-6b2a1536a/</a><br/>
     <strong>Twitter (X):</strong> <a href="https://x.com/EbiereObong">@EbiereObong</a>
   </p>

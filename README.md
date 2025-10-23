@@ -101,8 +101,8 @@
 <section>
   <h2>GitHub Stats</h2>
   <p>
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ebiereobongisonguyo&show_icons=true&theme=default" />
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebiereobongisonguyo&layout=compact" />
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ebiere24&show_icons=true&theme=default" />
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebiere24&layout=compact" />
   </p>
 </section>
 
